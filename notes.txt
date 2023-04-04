@@ -104,9 +104,42 @@ else:
 
 
 
+functions
+----------------
+-builtin function
+- userdefined function
+
+builtin function         dir(__builtin__)
+--------------------
+print()
+range()
+input()
+len()
+id()
+max()
+min()
+sum()
+type()
+isinstance()
+round()
+
+
+list()
+tuple()
+str()
+dict()
+set()
+int()
+float()
 
 
 
+user defined function
+------------------------
+
+- code reusability
+- define the code once and call it for multiple times.
+- modular approach
 
 
 
