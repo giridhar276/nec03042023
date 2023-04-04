@@ -1,0 +1,125 @@
+
+* Everything in python is object *
+** Every object contains methods **
+
+
+
+number
+-------
+number can be integer or decimal or octal or hexa.
+
+val  = 10
+aval = 34.43
+
+
+string
+------
+string is defined in single or double or triple quotes.
+
+aname = 'python programming'
+bname = "java programming"
+cname = """scala programming"""
+
+
+
+list
+-------
+list contains set of elements.
+Elements can be numbers or strings or any combination.
+list is defined in [].
+
+alist = [10,20,30,40]
+blist = [34,234,3,3,"java"]
+
+
+tuple ( immutable , unchangeable)
+---------
+tuple contains set of elements.
+Elements can be numbers or strings or any combination.
+tupe is defined in ().
+
+
+dictionary( json , hash , hashmap  - different names in other languages )
+-------------
+dictionary contains elements in key-value pairs
+key can either number or string used to uniquely identify the value
+value can be number or string or list or tuple or dictionary or any complex data structure.
+dictionary is defined in {}.
+
+syntax :   object = {key:value , key:value , key:value }
+example:    book  = {"chap1":10, "chap2":20 , "chap3":30 ,"chap4":10  }
+         bookinfo  = {"chap1":[10,"Rita","US"], "chap2":[20,"Ram","UK"] }
+
+
+
+set
+--------
+set is unordered collection of UNIQUE values of the same type.
+
+aset = {10,10,20,20,30,30}
+
+
+
+
+
+conditions
+------------
+simple if
+if-else
+if-elif-elif-elif... else
+
+
+
+simple if
+---------------
+level1
+level1
+level1
+level1
+if cond:
+    level2
+    level2
+    level2
+level1
+level1
+
+
+
+
+
+if-else
+------------
+level1
+level1
+level1
+level1
+if cond:
+    level2
+    level2
+    level2
+else:
+    level2
+    level2
+    level2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
